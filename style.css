@@ -3,47 +3,31 @@ body{
 }
 
 
-h2{
+h1{
     font-size: 50px;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
-div {  
-    width: auto;  
-    text-align: center;  
-    padding: 15px;  
+ 
     
-    } 
+ 
 
     img {  
-    max-width: 100%;  
-    height: auto;
-}
-.article1{
-    font-size: 25px;
-    font-family: Arial, Helvetica, sans-serif;
-    text-align:left;
-    padding-left: 10px;
-    margin: 50px 20px 50px 20px;
-}
-h3{
-    font-size: 50 px;
-    text-align: centre;
-    font-family: 'Times New Roman', Times, serif;
+    max-width: 50%; 
+     
+   
+
 }
 
 
 
-.article2{
-    font-size:25px;
-    font-family: Arial, Helvetica, sans-serif;
-    text-align:left;
-    padding-left: 10px;
-    margin: 50px 20px 50px 20px;
-}
 
-.image2 {
 
-    width: 40%;
-    margin-left: 425px;
+
+
+
+
+p{
+    font-size: 30px;
+    text-align: center;
 }
